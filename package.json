@@ -1,0 +1,24 @@
+{
+  "name": "probiotic",
+  "version": "0.0.1",
+  "description": "The simplified multi-workers daemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolaOrritos/probiotic.git"
+  },
+  "keywords": [
+    "node",
+    "workers",
+    "daemon"
+  ],
+  "author": "Nicola Orritos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicolaOrritos/probiotic/issues"
+  },
+  "homepage": "https://github.com/NicolaOrritos/probiotic#readme"
+}
