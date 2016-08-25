@@ -1,6 +1,6 @@
 {
   "name": "probiotic",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The simplified multi-workers daemon",
   "main": "lib/probiotic.js",
   "repository": {
