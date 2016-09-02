@@ -8,6 +8,8 @@ The simplified multi-workers daemon
 [![GitHub License][ghlic-image]][ghlic-url]
 [![Dependencies Status][david-image]][david-url]
 
+(For a featureful cousin of _Probiotic_ see [_Progenic_](https://github.com/NicolaOrritos/progenic))
+
 
 ## Table of Contents
 
