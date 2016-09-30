@@ -1,6 +1,6 @@
 {
   "name": "probiotic",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "The simplified multi-workers daemon",
   "main": "lib/probiotic.js",
   "repository": {
@@ -12,7 +12,7 @@
     "LICENSE.md"
   ],
   "engines": {
-    "node": ">=4.5.0"
+    "node": ">=4.6.0"
   },
   "os": [
     "linux"
